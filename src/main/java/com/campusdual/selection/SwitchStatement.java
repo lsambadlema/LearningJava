@@ -33,6 +33,6 @@ public class SwitchStatement {
         int value = methodSwitchCase(initialValue);
         System.out.println("Initial Value is -> "+ initialValue + ", final value is ->"+ value );
 
-
     }
 }
+
